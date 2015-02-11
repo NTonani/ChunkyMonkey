@@ -1,0 +1,14 @@
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\bin\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\bin\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.csproj.ResolveComReference.cache
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.Form1.resources
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\win\PROGRAMMING\c#\cscd371\assignment3\Assignment3\obj\Debug\Assignment3.pdb

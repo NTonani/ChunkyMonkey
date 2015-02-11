@@ -1,0 +1,118 @@
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.xml
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.Game.xml
+C:\win\PROGRAMMING\c#\cscd371\cmsaves\CHUNKYMONKEY3\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\win\PROGRAMMING\c#\cscd371\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\School\Programming\C#\.net 371\Final Project\CHUNKYMONKEYCURRENT\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\Users\Leland\Downloads\shitty games\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\School\Programming\C#\.net 371\Final Project\Final\CHUNKYMONKEY\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\School\Programming\C#\.net 371\Final Project\Final\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe.config
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\bin\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\bin\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\bin\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\Interop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\AxInterop.WMPLib.dll
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.ResolveComReference.cache
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.Form1.resources
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.Properties.Resources.resources
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csproj.GenerateResource.Cache
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.exe
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.pdb
+C:\School\Programming\C#\.net 371\Final Project\Final Project\ChunkyMonkey\obj\Debug\ChunkyMonkey.csprojResolveAssemblyReference.cache
